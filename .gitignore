@@ -1,0 +1,13 @@
+# sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# editores
+.vscode/
+.idea/
+
+# arquivos temporários de debug/preview
+_debug.html
+_render.html
+*.log
